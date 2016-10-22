@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Refrigerator</string>
+    <string name="enter_food">Enter your food</string>
+    <string name="save_food">Go!</string>
+</resources>
